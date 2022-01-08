@@ -1,5 +1,5 @@
 # Origamid
-Material / Conteúdo desenvolvido durante meus estudos nos cursos da origamid.com com foco em desenvolvimento Front-End
+Material / Conteúdo desenvolvido durante meus estudos nos cursos da origamid com foco em desenvolvimento Front-End
 
 ## Projetos feitos no curso da origamid
 
