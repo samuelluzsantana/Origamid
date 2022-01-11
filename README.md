@@ -5,4 +5,6 @@ Material / Conteúdo desenvolvido durante meus estudos nos cursos da origamid co
 
 Site: https://www.origamid.com/cursos/
 
-- [ ] CSS Flexbox
+- [x] CSS Flexbox
+- [ ] CSS Grid Layout
+
