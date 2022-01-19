@@ -8,4 +8,4 @@ Material / Conteúdo desenvolvido durante meus estudos nos cursos da origamid co
 Site: https://www.origamid.com/cursos/
 
 - [x] CSS Flexbox - [FlexBlog](https://github.com/SamuelLuzSantana/Origamid/tree/main/CSS%20Flexbox/flexblog)
-- [ ] CSS Grid Layout
+- [x] CSS Grid Layout - [Wildbeast](https://github.com/SamuelLuzSantana/Origamid/tree/main/CSS%20Layout%20Grid/wildbeast)
