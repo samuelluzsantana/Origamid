@@ -14,8 +14,8 @@ var comidaPreferida;
 comidaPreferida = "Batata Frita";
 
 //Declarar 5 variaveis sem valor
-var cachorro;
-var fruta;
-var carro;
-var linguagem;
-var pais;
+var cachorro,
+    fruta,
+    carro,
+    linguagem,
+    pais;
