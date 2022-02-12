@@ -100,6 +100,7 @@ false || true; // true
 // Qual valor é retornado na seguinte expressão?
 var expressao = (5 - 2) && (5 - ' ') && (5 - 2);
 
+
 // Verifique se as seguintes variáveis são Truthy ou Falsy
 var nome = 'Andre';
 var idade = 28;
