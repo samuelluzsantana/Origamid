@@ -9,4 +9,5 @@ Site: https://www.origamid.com/cursos/
 
 - [x] CSS Flexbox - [FlexBlog](https://github.com/SamuelLuzSantana/Origamid/tree/main/CSS%20Flexbox/flexblog)
 - [x] CSS Grid Layout - [Wildbeast](https://github.com/SamuelLuzSantana/Origamid/tree/main/CSS%20Layout%20Grid/wildbeast)
-- [ ] JavaScript Completo ES6
+- [ ] JavaScript Completo ES6 - *em andamento
+- [ ] Bootstrap - *em andamento
