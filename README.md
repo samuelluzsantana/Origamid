@@ -16,8 +16,8 @@ Material / Conteúdo desenvolvido durante meus estudos nos cursos da Origamid co
 
 <div align="right">
 
- Legenda:   
-`⬜ falta concluir | ✅ concluído | 🚧 em andamento |🛑 em pausa `
+    
+`Legenda: ⬜ falta concluir | ✅ concluído | 🚧 em andamento |🛑 em pausa `
   
   </div>
 
