@@ -14,11 +14,9 @@ Material / Conteúdo desenvolvido durante meus estudos nos cursos da Origamid co
 </br>
 </br>
 
-<div aling='right'>
 *Legenda:* 
 `⬜ falta concluir | ✅ concluído | 🚧 em andamento |🛑 em pausa `
-</div>
-  
+
 </br>
 
 -  ✅  CSS Flexbox - [FlexBlog](https://github.com/SamuelLuzSantana/Origamid/tree/main/CSS%20Flexbox/flexblog)
