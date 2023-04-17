@@ -14,8 +14,12 @@ Material / Conteúdo desenvolvido durante meus estudos nos cursos da Origamid co
 </br>
 </br>
 
-*Legenda:* 
+<div align="right">
+
+*Legenda: * 
 `⬜ falta concluir | ✅ concluído | 🚧 em andamento |🛑 em pausa `
+  
+  </div>
 
 </br>
 
