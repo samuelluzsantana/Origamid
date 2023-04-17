@@ -12,12 +12,15 @@ Material / Conteúdo desenvolvido durante meus estudos nos cursos da Origamid co
 
 </a>
 
+</br>
+
 *Legenda:* 
 `⬜ falta concluir | ✅ concluído | 🚧 em andamento |🛑 em pausa `
 
+</br>
 
- ✅  CSS Flexbox - [FlexBlog](https://github.com/SamuelLuzSantana/Origamid/tree/main/CSS%20Flexbox/flexblog)
- ✅ CSS Grid Layout - [Wildbeast](https://github.com/SamuelLuzSantana/Origamid/tree/main/CSS%20Layout%20Grid/wildbeast)
- 🚧 TypeScript
-🛑 JavaScript Completo ES6 
-⬜  Bootstrap 
+-  ✅  CSS Flexbox - [FlexBlog](https://github.com/SamuelLuzSantana/Origamid/tree/main/CSS%20Flexbox/flexblog)
+ - ✅ CSS Grid Layout - [Wildbeast](https://github.com/SamuelLuzSantana/Origamid/tree/main/CSS%20Layout%20Grid/wildbeast)
+ - 🚧 TypeScript
+- 🛑 JavaScript Completo ES6 
+- ⬜  Bootstrap 
