@@ -6,14 +6,15 @@
 // 4 - Se a função receber uma string, retorne um número
 // 5 - Se ela receber algo diferente, retorne um erro. (throw "value deve ser um número ou uma string")
 
-function toNumber(value: string | number) {
-    if (typeof value === 'string') {
-        return Number(value);
-    } else if (typeof value === 'number') {
+function toNumber(value: number | string): number | string {
+    if (typeof value === "number") {
         return value;
-    } else {
-        throw 'value deve ser um número ou uma string';
     }
+    if (typeof value === 'string' && /^\d+$/.test(value)) {
+        return Number(value);
+    }
+    throw new Error("value deve ser um número ou uma string");
 }
 
-console.log(toNumber('asda'));
+
+console.log(toNumber('?'));
