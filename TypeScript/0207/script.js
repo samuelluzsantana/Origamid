@@ -1,3 +1,4 @@
 "use strict";
-//0206 Any
-console.log('0206 Any');
+//0207 - Null e Undefined
+var total = 25;
+total ? console.log(`o total é ${total}`) : console.log(`total não definido ${typeof total}`);

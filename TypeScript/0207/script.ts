@@ -1,3 +1,5 @@
-//0206 Any
+//0207 - Null e Undefined
 
-console.log('0206 Any');
+var total: number = 25;
+
+total ? console.log(`o total é ${total}`) : console.log(`total não definido ${typeof total}`);
